@@ -1,2 +1,2 @@
 # Combine
-Combine (UI/SUI)
+Combine (SUI)
